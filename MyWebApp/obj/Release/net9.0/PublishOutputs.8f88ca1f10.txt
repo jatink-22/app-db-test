@@ -1,0 +1,12 @@
+D:\App-DB-Test\publish\MyWebApp.exe
+D:\App-DB-Test\publish\appsettings.Development.json
+D:\App-DB-Test\publish\appsettings.json
+D:\App-DB-Test\publish\MyWebApp.dll
+D:\App-DB-Test\publish\MyWebApp.deps.json
+D:\App-DB-Test\publish\MyWebApp.runtimeconfig.json
+D:\App-DB-Test\publish\MyWebApp.pdb
+D:\App-DB-Test\publish\Microsoft.EntityFrameworkCore.dll
+D:\App-DB-Test\publish\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\App-DB-Test\publish\Microsoft.EntityFrameworkCore.Relational.dll
+D:\App-DB-Test\publish\Npgsql.dll
+D:\App-DB-Test\publish\Npgsql.EntityFrameworkCore.PostgreSQL.dll
