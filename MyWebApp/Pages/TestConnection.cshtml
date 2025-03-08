@@ -1,0 +1,16 @@
+@page
+@model MyWebApp.Pages.TestConnectionModel
+@{
+    ViewData["Title"] = "Test Connection";
+}
+
+<h1>Test Database Connection</h1>
+
+@if (Model.IsConnected)
+{
+    <p style="color: green;">Successfully connected to the database!</p>
+}
+else
+{
+    <p style="color: red;">Failed to connect to the database.</p>
+}
